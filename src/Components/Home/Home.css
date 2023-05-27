@@ -1,0 +1,43 @@
+.Group_1 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1440px;
+    height: 4170px;
+    z-index: 136;
+  }
+  .Image {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1440px;
+    height: 4170px;
+    z-index: 120;
+  }
+  .Design {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1440px;
+    height: 4170px;
+    z-index: 112;
+  }
+  .Rectangle {
+    background-color: rgb(235, 233, 172);
+    position: absolute;
+    left: 885px;
+    top: -10px;
+    width: 622px;
+    height: 835px;
+    z-index: 109;
+  }
+  .Rectangle {
+    background-color: rgb(255, 224, 1);
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1440px;
+    height: 825px;
+    z-index: 107;
+  }
+  
