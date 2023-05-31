@@ -36,7 +36,7 @@ function SecondLayer() {
         grabCursor={true}
         centeredSlides={true}
         loop={true}
-        slidesPerView={true}
+        slidesPerView={'auto'}
         coverflowEffect={{
           rotate: 0,
           stretch: 100,
