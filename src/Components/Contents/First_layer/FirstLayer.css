@@ -8,10 +8,11 @@
 }
 
 .back{
-    top: 1020px; ;
+    top: 1050px;
     position:absolute;
     z-index: 1;
     width: 100%;
+    display: none;
 
 }
 
@@ -123,6 +124,7 @@
         position:absolute;
         z-index: 1;
         width: 100%;
+        display: none;
     
     }
     
@@ -237,6 +239,7 @@
         position:absolute;
         z-index: 1;
         width: 100%;
+        display: none;
     
     }
     
@@ -350,6 +353,7 @@
         position:absolute;
         z-index: 1;
         width: 100%;
+        display: none;
     
     }
     
