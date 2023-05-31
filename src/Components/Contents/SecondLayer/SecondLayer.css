@@ -169,6 +169,16 @@
     }
 
 
+    .swiper-slide-next img{
+      opacity: 0.7;
+  }
+  
+  .swiper-slide-prev img{
+      opacity: 0.7;
+  
+  }
+
+
 
 
 
@@ -374,6 +384,15 @@
         height: 95%;
         object-fit: contain;
     }
+
+    .swiper-slide-next img{
+      opacity: 0.5;
+  }
+  
+  .swiper-slide-prev img{
+      opacity: 0.5;
+  
+  }
 
 
 
