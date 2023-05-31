@@ -269,7 +269,7 @@
     
 }  @media screen and (max-width: 450px) {
     .swiper{
-        height: 100px;
+        height: 250px;
         width: 100%;
         padding: 0rem;
         display: flex;
@@ -279,7 +279,7 @@
     }
 
     .swiper_slide img{
-        width: 150px;
+        width: 250px;
         height: 95%;
     
     
