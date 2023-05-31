@@ -279,11 +279,11 @@
     }
 
     .swiper_slide img{
-        width: fit-content;
+        width: 150px;
         height: 95%;
     
     
-        object-fit: cover;
+        object-fit: contain;
     }
 
     .swiper_slide{
