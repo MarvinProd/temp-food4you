@@ -269,7 +269,7 @@
     
 }  @media screen and (max-width: 450px) {
     .swiper{
-        height: 250px;
+        height: 220px;
         width: 100%;
         padding: 0rem;
         display: flex;
@@ -279,16 +279,12 @@
     }
 
     .swiper_slide img{
-        width: 250px;
+        width: 300px;
         height: 95%;
-    
-    
         object-fit: contain;
     }
 
-    .swiper_slide{
-        
-    }
+
 
     .top_title{
         margin-top: 10%;
