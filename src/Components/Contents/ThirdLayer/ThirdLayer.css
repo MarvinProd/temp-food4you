@@ -95,4 +95,405 @@
     font-family: myfont3;
 }
 
+@media screen and (max-width: 1050px) {
 
+    .body_div2{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+    
+    .div_body3{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        width: 80%;
+    }
+    
+    .div_body3 img{
+        width: 100%;
+    }
+    
+    .div1{
+        position: relative;
+        text-align: left;
+        margin-right: 4%;
+    }
+    
+    .div1 h1{
+        position: absolute;
+        font-size: 15px;
+        top: 10px;
+        left: 25px;
+        color: white;
+        font-family: myfont3;
+    }
+    
+    .div1 p{
+        position: absolute;
+        font-size: 25px;
+        top: 15px;
+        text-align: left;
+        left: 25px;
+        color: white;
+        font-family: myfont3;
+    }
+    
+    .div2{
+        position: relative;
+        text-align: left;
+        margin-right: 3%;
+        margin-bottom: 7%;
+    }
+    
+    .div2 h1{
+        position: absolute;
+        font-size: 13px;
+        top: 10px;
+        left: 25px;
+        color: white;
+        font-family: myfont3;
+    }
+    
+    .div2 p{
+        position: absolute;
+        font-size: 23px;
+        top: 15px;
+        text-align: left;
+        left: 25px;
+        color: white;
+        font-family: myfont3;
+    }
+    
+    .div3{
+        position: relative;
+        text-align: left;
+        margin-right: 3%;
+        margin-top: 8%;
+    }
+    
+    .div3 h1{
+        position: absolute;
+        font-size: 13px;
+        top: 10px;
+        left: 25px;
+        color: white;
+        font-family: myfont3;
+    }
+    
+    .div3 p{
+        position: absolute;
+        font-size: 23px;
+        top: 15px;
+        text-align: left;
+        left: 25px;
+        color: white;
+        font-family: myfont3;
+    }
+
+}
+
+@media screen and (max-width: 850px) {
+
+    .body_div2{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+    
+    .div_body3{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        width: 80%;
+    }
+    
+    .div_body3 img{
+        width: 100%;
+    }
+    
+    .div1{
+        position: relative;
+        text-align: left;
+        margin-right: 4%;
+    }
+    
+    .div1 h1{
+        position: absolute;
+        font-size: 12px;
+        top: 10px;
+        left: 25px;
+        color: white;
+        font-family: myfont3;
+    }
+    
+    .div1 p{
+        position: absolute;
+        font-size: 20px;
+        top: 15px;
+        text-align: left;
+        left: 25px;
+        color: white;
+        font-family: myfont3;
+    }
+    
+    .div2{
+        position: relative;
+        text-align: left;
+        margin-right: 3%;
+        margin-bottom: 7%;
+    }
+    
+    .div2 h1{
+        position: absolute;
+        font-size: 10px;
+        top: 10px;
+        left: 25px;
+        color: white;
+        font-family: myfont3;
+    }
+    
+    .div2 p{
+        position: absolute;
+        font-size: 15px;
+        top: 15px;
+        text-align: left;
+        left: 25px;
+        color: white;
+        font-family: myfont3;
+    }
+    
+    .div3{
+        position: relative;
+        text-align: left;
+        margin-right: 3%;
+        margin-top: 8%;
+    }
+    
+    .div3 h1{
+        position: absolute;
+        font-size: 10px;
+        top: 10px;
+        left: 25px;
+        color: white;
+        font-family: myfont3;
+    }
+    
+    .div3 p{
+        position: absolute;
+        font-size: 15px;
+        top: 15px;
+        text-align: left;
+        left: 25px;
+        color: white;
+        font-family: myfont3;
+    }
+
+}
+
+@media screen and (max-width: 650px) {
+
+    .body_div2{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+    
+    .div_body3{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        width: 80%;
+    }
+    
+    .div_body3 img{
+        width: 100%;
+    }
+    
+    .div1{
+        position: relative;
+        text-align: left;
+        margin-right: 4%;
+    }
+    
+    .div1 h1{
+        position: absolute;
+        font-size: 9px;
+        top: 5px;
+        left: 15px;
+        color: white;
+        font-family: myfont3;
+    }
+    
+    .div1 p{
+        position: absolute;
+        font-size: 15px;
+        top: 8px;
+        text-align: left;
+        left: 15px;
+        color: white;
+        font-family: myfont3;
+    }
+    
+    .div2{
+        position: relative;
+        text-align: left;
+        margin-right: 3%;
+        margin-bottom: 7%;
+    }
+    
+    .div2 h1{
+        position: absolute;
+        font-size: 7px;
+        top: 5px;
+        left: 15px;
+        color: white;
+        font-family: myfont3;
+    }
+    
+    .div2 p{
+        position: absolute;
+        font-size: 12px;
+        top: 7px;
+        text-align: left;
+        left: 15px;
+        color: white;
+        font-family: myfont3;
+    }
+    
+    .div3{
+        position: relative;
+        text-align: left;
+        margin-right: 3%;
+        margin-top: 8%;
+    }
+    
+    .div3 h1{
+        position: absolute;
+        font-size: 7px;
+        top: 5px;
+        left: 15px;
+        color: white;
+        font-family: myfont3;
+    }
+    
+    .div3 p{
+        position: absolute;
+        font-size: 12px;
+        top: 7px;
+        text-align: left;
+        left: 15px;
+        color: white;
+        font-family: myfont3;
+    }
+
+}
+
+@media screen and (max-width: 650px) {
+
+    .body_div2{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    }
+    
+    .div_body3{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 80%;
+    }
+    
+    .div_body3 img{
+        width: 100%;
+    }
+    
+    .div1{
+        position: relative;
+        text-align: left;
+        margin-bottom: 5%;
+        
+    }
+    
+    .div1 h1{
+        position: absolute;
+        font-size: 9px;
+        top: 5px;
+        left: 15px;
+        color: white;
+        font-family: myfont3;
+    }
+    
+    .div1 p{
+        position: absolute;
+        font-size: 15px;
+        top: 8px;
+        text-align: left;
+        left: 15px;
+        color: white;
+        font-family: myfont3;
+    }
+    
+    .div2{
+        position: relative;
+        text-align: left;
+        margin-bottom: 5%;
+    }
+    
+    .div2 h1{
+        position: absolute;
+        font-size: 7px;
+        top: 5px;
+        left: 15px;
+        color: white;
+        font-family: myfont3;
+    }
+    
+    .div2 p{
+        position: absolute;
+        font-size: 12px;
+        top: 7px;
+        text-align: left;
+        left: 15px;
+        color: white;
+        font-family: myfont3;
+    }
+    
+    .div3{
+        position: relative;
+        text-align: left;
+        margin-top: 0%;
+    }
+    
+    .div3 h1{
+        position: absolute;
+        font-size: 7px;
+        top: 5px;
+        left: 15px;
+        color: white;
+        font-family: myfont3;
+    }
+    
+    .div3 p{
+        position: absolute;
+        font-size: 12px;
+        top: 7px;
+        text-align: left;
+        left: 15px;
+        color: white;
+        font-family: myfont3;
+    }
+
+}
