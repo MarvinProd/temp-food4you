@@ -1,0 +1,666 @@
+.div_body4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.div_text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 80%;
+    margin-bottom: 5%;
+
+}
+
+.div_text h1{
+    font-family: myfont4;
+    line-height: 1px;
+    font-size: 25px;
+
+
+}
+
+.div_text p{
+    line-height: 1px;
+    font-size: 40px;
+    font-family: myfont2;
+
+}
+
+.div_body_1{
+    margin-bottom: 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    width: 60%;
+
+}
+
+.div_one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 45%;
+
+}
+.div_two{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 45%;
+
+}
+
+
+
+
+.div_body4 input {
+    margin: 4%;
+    width: 100%;
+    border: 1px solid rgb(190, 190, 190);
+    border-radius: 5px;
+    font-size: 20px;
+    color: black;
+    margin-right: 1rem;
+    padding: 1.2rem 1rem;
+    background-color: rgba(235, 174, 76, 0);
+}
+
+
+.btn_4{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.btn_4{
+    display: flex;
+    margin: 4%;
+    margin-right: -5%;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    height: 100%;
+    width: 110%;
+    border-radius: 5px;
+    position: relative;
+    background-color: rgb(255, 224, 1);
+    left: 50%;
+    right: 50%;
+    transform: translate(-50%);
+    cursor: pointer;
+}
+
+.btn_4 p{
+    padding: 2%;
+    line-height: 1px;
+    font-family: myfont3;
+    font-size: 20px;
+}
+
+@media screen and (max-width: 1050px) {
+    .div_body4{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 100%;
+    }
+    
+    .div_text{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 80%;
+        margin-bottom: 5%;
+    
+    }
+    
+    .div_text h1{
+        font-family: myfont4;
+        line-height: 1px;
+        font-size: 25px;
+    
+    
+    }
+    
+    .div_text p{
+        line-height: 1px;
+        font-size: 40px;
+        font-family: myfont2;
+    
+    }
+    
+    .div_body_1{
+        margin-bottom: 5%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: row;
+        width: 60%;
+    
+    }
+    
+    .div_one{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 45%;
+    
+    }
+    .div_two{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 45%;
+    
+    }
+    
+    
+    
+    
+    .div_body4 input {
+        margin: 4%;
+        width: 100%;
+        border: 1px solid rgb(190, 190, 190);
+        border-radius: 5px;
+        font-size: 20px;
+        color: black;
+        margin-right: 1rem;
+        padding: 1rem 1rem;
+        background-color: rgba(235, 174, 76, 0);
+    }
+    
+    
+    .btn_4{
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    
+    .btn_4{
+        display: flex;
+        margin: 4%;
+        margin-right: -5%;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        height: 100%;
+        width: 112%;
+        border-radius: 5px;
+        position: relative;
+        background-color: rgb(255, 224, 1);
+        left: 50%;
+        right: 50%;
+        transform: translate(-50%);
+        cursor: pointer;
+    }
+    
+    .btn_4 p{
+        padding: 3%;
+        line-height: 1px;
+        font-family: myfont3;
+        font-size: 15px;
+    }
+
+}
+
+@media screen and (max-width: 850px) {
+    .div_body4{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 100%;
+    }
+    
+    .div_text{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 80%;
+        margin-bottom: 5%;
+    
+    }
+    
+    .div_text h1{
+        font-family: myfont4;
+        line-height: 1px;
+        font-size: 15px;
+    
+    
+    }
+    
+    .div_text p{
+        line-height: 1px;
+        font-size: 35px;
+        font-family: myfont2;
+    
+    }
+    
+    .div_body_1{
+        margin-bottom: 5%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: row;
+        width: 60%;
+    
+    }
+    
+    .div_one{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 45%;
+    
+    }
+    .div_two{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 45%;
+    
+    }
+    
+    
+    
+    
+    .div_body4 input {
+        margin: 4%;
+        width: 100%;
+        border: 1px solid rgb(190, 190, 190);
+        border-radius: 5px;
+        color: black;
+        font-size: 13px;
+        margin-right: 1rem;
+        padding: 1rem 1rem;
+        background-color: rgba(235, 174, 76, 0);
+    }
+    
+    
+    .btn_4{
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    
+    .btn_4{
+        display: flex;
+        margin: 4%;
+        margin-right: -5%;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        height: 100%;
+        width: 112%;
+        border-radius: 5px;
+        position: relative;
+        background-color: rgb(255, 224, 1);
+        left: 50%;
+        right: 50%;
+        transform: translate(-50%);
+        cursor: pointer;
+    }
+    
+    .btn_4 p{
+        padding: 3%;
+        line-height: 1px;
+        font-family: myfont3;
+        font-size: 15px;
+    }
+
+}
+
+@media screen and (max-width: 650px) {
+    .div_body4{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 100%;
+    }
+    
+    .div_text{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 80%;
+        margin-bottom: 5%;
+    
+    }
+    
+    .div_text h1{
+        font-family: myfont4;
+        line-height: 1px;
+        font-size: 15px;
+    
+    
+    }
+    
+    .div_text p{
+        line-height: 1px;
+        font-size: 35px;
+        font-family: myfont2;
+    
+    }
+    
+    .div_body_1{
+        margin-bottom: 5%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: column;
+        width: 70%;
+    
+    }
+    
+    .div_one{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 100%;
+    
+    }
+    .div_two{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 100%;
+    
+    }
+    
+    
+    
+    
+    .div_body4 input {
+        margin: 2%;
+        width: 100%;
+        border: 1px solid rgb(190, 190, 190);
+        border-radius: 5px;
+        color: black;
+        font-size: 15px;
+        margin-right: 2%;
+        padding: 1rem 1rem;
+        background-color: rgba(235, 174, 76, 0);
+    }
+    
+    
+    .btn_4{
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    
+    .btn_4{
+        display: flex;
+        margin: 4%;
+        margin-right: 4%;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        height: 100%;
+        width: 100%;
+        border-radius: 5px;
+        position: relative;
+        background-color: rgb(255, 224, 1);
+        left: 50%;
+        right: 50%;
+        transform: translate(-50%);
+        cursor: pointer;
+    }
+    
+    .btn_4 p{
+        padding: 3%;
+        line-height: 1px;
+        font-family: myfont3;
+        font-size: 15px;
+    }
+
+}
+
+@media screen and (max-width: 450px) {
+    .div_body4{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 100%;
+    }
+    
+    .div_text{
+        flex-wrap: wrap;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 80%;
+        margin-bottom: 5%;
+    
+    }
+    
+    .div_text h1{
+        font-family: myfont4;
+        line-height: 1px;
+        font-size: 13px;
+    
+    
+    }
+    
+    .div_text p{
+        line-height: 1px;
+        font-size: 25px;
+        font-family: myfont2;
+    
+    }
+    
+    .div_body_1{
+        margin-bottom: 5%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: column;
+        width: 70%;
+    
+    }
+    
+    .div_one{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 100%;
+    
+    }
+    .div_two{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 100%;
+    
+    }
+    
+    
+    
+    
+    .div_body4 input {
+        margin: 2%;
+        width: 100%;
+        border: 1px solid rgb(190, 190, 190);
+        border-radius: 5px;
+        color: black;
+        font-size: 15px;
+        margin-right: 2%;
+        padding: 1rem 1rem;
+        background-color: rgba(235, 174, 76, 0);
+    }
+    
+    
+    .btn_4{
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    
+    .btn_4{
+        display: flex;
+        margin: 4%;
+        margin-right: 4%;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        height: 100%;
+        width: 100%;
+        border-radius: 5px;
+        position: relative;
+        background-color: rgb(255, 224, 1);
+        left: 50%;
+        right: 50%;
+        transform: translate(-50%);
+        cursor: pointer;
+    }
+    
+    .btn_4 p{
+        padding: 3%;
+        line-height: 1px;
+        font-family: myfont3;
+        font-size: 15px;
+    }
+
+}
+
+@media screen and (max-width: 300px) {
+    .div_body4{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 100%;
+    }
+    
+    .div_text{
+        flex-wrap: wrap;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 80%;
+        margin-bottom: 5%;
+    
+    }
+    
+    .div_text h1{
+        font-family: myfont4;
+        line-height: 1px;
+        font-size: 10px;
+    
+    
+    }
+    
+    .div_text p{
+        line-height: 1px;
+        font-size: 20px;
+        font-family: myfont2;
+    
+    }
+    
+    .div_body_1{
+        margin-bottom: 5%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: column;
+        width: 70%;
+    
+    }
+    
+    .div_one{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 100%;
+    
+    }
+    .div_two{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 100%;
+    
+    }
+    
+    
+    
+    
+    .div_body4 input {
+        margin: 2%;
+        width: 100%;
+        border: 1px solid rgb(190, 190, 190);
+        border-radius: 5px;
+        color: black;
+        font-size: 15px;
+        margin-right: 2%;
+        padding: 1rem 1rem;
+        background-color: rgba(235, 174, 76, 0);
+    }
+    
+    
+    .btn_4{
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    
+    .btn_4{
+        display: flex;
+        margin: 4%;
+        margin-right: 4%;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        height: 100%;
+        width: 100%;
+        border-radius: 5px;
+        position: relative;
+        background-color: rgb(255, 224, 1);
+        left: 50%;
+        right: 50%;
+        transform: translate(-50%);
+        cursor: pointer;
+    }
+    
+    .btn_4 p{
+        padding: 3%;
+        line-height: 1px;
+        font-family: myfont3;
+        font-size: 15px;
+    }
+
+}
+
+

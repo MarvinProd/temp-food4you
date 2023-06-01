@@ -400,7 +400,7 @@
 
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 450px) {
 
     .body_div2{
         display: flex;
