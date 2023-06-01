@@ -58,7 +58,7 @@
 
 .swiper-slide-shadow-left,
 .swiper-slide-shadow-right {
-  display: flex;
+  display: none;
   height: 500px;
   background-image: linear-gradient(to left,rgba(0, 0, 0, 0.686),rgba(0, 0, 0, 0.456));
   
