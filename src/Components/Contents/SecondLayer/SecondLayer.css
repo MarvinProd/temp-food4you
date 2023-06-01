@@ -51,7 +51,7 @@
 }
 
 .swiper_slide img{
-    width: fit-content;
+    width: max-content;
     height: 100%;
     object-fit: contain;
 }
@@ -378,7 +378,7 @@
     
 }  @media screen and (max-width: 450px) {
     .swiper{
-        height: 220px;
+        height: 170px;
         width: 100%;
         padding: 0rem;
         display: flex;
@@ -388,7 +388,7 @@
     }
 
     .swiper_slide img{
-        width: 300px;
+        width: fit-content;
         height: 100%;
         object-fit: contain;
     }
