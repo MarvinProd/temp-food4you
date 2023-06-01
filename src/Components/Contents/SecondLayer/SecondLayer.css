@@ -378,7 +378,7 @@
     
 }  @media screen and (max-width: 450px) {
     .swiper{
-        height: 170px;
+        height: 150px;
         width: 100%;
         padding: 0rem;
         display: flex;
