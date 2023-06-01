@@ -9,7 +9,7 @@ function Body() {
     <div>
          <Firstlayer/> 
           <SecondLayer/>
-          {/* <ThirdLayer/> */}
+          <ThirdLayer/> 
         
     </div>
   )
