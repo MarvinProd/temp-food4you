@@ -9,9 +9,9 @@ import 'swiper/css/effect-coverflow';
 import 'swiper/css/pagination';
 import 'swiper/css/navigation';
 
-import slide_image_1 from '../../../assets/Image.png';
-import slide_image_2 from '../../../assets/Image.png';
-import slide_image_3 from '../../../assets/Image.png';
+import slide_image_2 from '../../../assets/tri.png';
+import slide_image_3 from '../../../assets/tri.png';
+import slide_image_1 from '../../../assets/tri.png';
 
 
 function SecondLayer() {
