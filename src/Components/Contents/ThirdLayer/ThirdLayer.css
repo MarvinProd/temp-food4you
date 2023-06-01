@@ -433,7 +433,7 @@
     
     .div1 h1{
         position: absolute;
-        font-size: 9px;
+        font-size: 12px;
         top: 5px;
         left: 15px;
         color: white;
@@ -442,7 +442,7 @@
     
     .div1 p{
         position: absolute;
-        font-size: 15px;
+        font-size: 22px;
         top: 8px;
         text-align: left;
         left: 15px;
@@ -459,7 +459,7 @@
     
     .div2 h1{
         position: absolute;
-        font-size: 7px;
+        font-size: 9px;
         top: 5px;
         left: 15px;
         color: white;
@@ -468,7 +468,7 @@
     
     .div2 p{
         position: absolute;
-        font-size: 12px;
+        font-size: 17px;
         top: 7px;
         text-align: left;
         left: 15px;
@@ -485,7 +485,7 @@
     
     .div3 h1{
         position: absolute;
-        font-size: 7px;
+        font-size: 10px;
         top: 5px;
         left: 15px;
         color: white;
@@ -494,7 +494,7 @@
     
     .div3 p{
         position: absolute;
-        font-size: 12px;
+        font-size: 18px;
         top: 7px;
         text-align: left;
         left: 15px;
